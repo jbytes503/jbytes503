@@ -5,7 +5,6 @@
 
 ### 🎓 **Education**  
 - **IT Student** with a strong foundation in computer science and software development.  
-- Focused on mastering software engineering principles, algorithms, and problem-solvi
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jassir-habba) 
 
